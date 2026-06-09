@@ -165,6 +165,8 @@ cv2.destroyAllWindows()
 
 ### Hasil Output
 
+<img width="296" height="188" alt="image" src="https://github.com/user-attachments/assets/1573a1dd-9d70-452b-bd95-ac526321576f" />
+
 Output program berupa tampilan video yang berjalan secara real-time. Setiap manusia yang terdeteksi akan diberi kotak merah pada tubuhnya. Sistem dapat mendeteksi beberapa orang sekaligus apabila terlihat jelas pada video.
 
 Hasil deteksi dipengaruhi oleh:
@@ -174,8 +176,7 @@ Hasil deteksi dipengaruhi oleh:
 * posisi tubuh manusia,
 * dan jumlah objek pada frame.
 
-6. Hasil Pengujian
-
+### 6. Hasil Pengujian
 Berdasarkan hasil pengujian, sistem berhasil mendeteksi manusia pada video dengan memberikan kotak berwarna merah di sekitar tubuh manusia.
 
 Deteksi bekerja dengan baik pada kondisi:
