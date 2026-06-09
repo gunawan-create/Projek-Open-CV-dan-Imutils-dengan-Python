@@ -22,12 +22,12 @@ Adapun tools dan library yang digunakan pada project ini yaitu:
 - Imutils
 - Visual Studio Code
 - Video atau gambar sebagai media pengujian
-- 
+
 Instalasi library dilakukan menggunakan perintah berikut:
 
 - pip install opencv-python
 - pip install imutils
-- 
+
 ### 4. Penjelasan Sistem
 Sistem bekerja dengan membaca gambar atau video menggunakan OpenCV. Setelah itu program akan menggunakan metode HOG Descriptor untuk mengenali bentuk manusia berdasarkan pola gradien pada citra.
 
